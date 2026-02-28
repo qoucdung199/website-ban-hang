@@ -1,4 +1,7 @@
 import "./App.css";
-return <div>Web bán hàng</div>;
+
+function App() {
+  return <div>Web bán hàng</div>;
+}
 
 export default App;
